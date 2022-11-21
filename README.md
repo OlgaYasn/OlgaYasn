@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @OlgaYasn<br>👀 I’m interested in developing my skills in coding and web creations.<br>🌱 I’m currently learning to use Github, Javascript and PHP.<br>💞️ I’m looking to collaborate on différent projects that can boost my web culture.<br>📫 How to reach me ? You can use my LinkedIn : Olga Yasnopolskaya
+👋 Hi, I’m @OlgaYasn<br>👀 I’m interested in developing my skills in coding and web creations.<br>🌱 I’m currently learning to use Github, Javascript and React.<br>💞️ I’m looking to collaborate on différent projects that can boost my web culture.<br>📫 How to reach me ? You can use my LinkedIn : Olga Yasnopolskaya
 
 
 ## 🌐 Socials:
